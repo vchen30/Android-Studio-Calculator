@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="intro">tendies</string>
+    <string name="initial_value">0</string>
+    <string name="button_1">1</string>
+    <string name="button_2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btn.">.</string>
+    <string name="c">CLEAR</string>
+    <string name="equal">=</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="div">/</string>
+    <string name="bramult">x</string>
+    <string name="braopen">(</string>
+    <string name="close">)</string>
+    <string name="exp">EXP</string>
+    <string name="ric">Eric Chan</string>
+
+</resources>
